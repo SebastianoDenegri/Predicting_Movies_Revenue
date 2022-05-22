@@ -1,2 +1,2 @@
-# predicting_movies_revenue
-Linear Regression model to predict movie's revenue.
+# Predicting_Movies_Revenue
+Building a linear regression model to predict movie's revenue.
